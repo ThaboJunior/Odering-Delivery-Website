@@ -118,7 +118,10 @@ li{
 
 /* SECTIONS STYLING */
 
-
+.hero-section{
+    background: gold;
+    min-height: calc(100vh - 14vh);
+}
 
 /* FOOTER STYLING */
 
