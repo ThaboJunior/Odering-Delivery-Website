@@ -170,6 +170,8 @@ li{
         display: none;
     }
 
-    
+    .desktop-action .hamburger{
+        display: block;
+    }
     
 }
