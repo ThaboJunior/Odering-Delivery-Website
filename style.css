@@ -88,6 +88,21 @@ li{
 .cart-icon{
     color: var(--lead);
     font-size: 1.3rem;
+    position:relative;
+}
+
+.cart-icon .cart-value{
+    width: 20px;
+    position: absolute;
+    top: 50%;
+    right: -10px;
+    aspect-ratio: 1;
+    border-radius:100vw;
+    background: var(--gold-finger);
+    color: var(--lead);
+    text-align: center;
+    line-height: 20px;
+    font-size: .85rem;
 }
 
 
