@@ -290,6 +290,22 @@ color: var(--gold-finger)
     line-height: 2.5rem;*/
 }
 
+/* SECTION 4 */
+
+.app-container{
+    background: var(--hint-yellow);
+    padding: 3rem 6rem;
+    border-radius: 3rem;
+}
+
+.app-container .content h2{
+    font-size: 0.5;
+}
+
+.app-container .image-container img{
+    width: 25rem;
+}
+
 
 
 
@@ -408,6 +424,22 @@ color: var(--gold-finger)
     h1 {
         font-size: 3rem;
     }
+
+    /* SECTION 03 */
+
+    
+
+    /* SECTION 04 */
+
+    .app-container{
+        padding: 2.2rem;
+    }
+
+    .app-container .content h2{
+        font-size: 3.5rem;
+    }
+
+
 
 
 }
