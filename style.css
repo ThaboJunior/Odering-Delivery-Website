@@ -306,6 +306,17 @@ color: var(--gold-finger)
     border-radius: 3rem;
 }
 
+.coming-soon-btn{
+    display: inline-block;
+    padding: .9rem 2rem;
+    background: var(--gold-finger);
+    border-radius: 1rem;
+    font-size: 1.1rem;
+    color: var(--pure-white);
+    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 1px;
+    
+}
+
 .app-container .content h2{
     font-size: 0.5;
 }
