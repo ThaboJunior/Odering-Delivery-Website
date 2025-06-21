@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Double Beef Burger",
+        "price": "R60",
+        "image":"images/burger.png"
+    },
+    {
+        "id": 2,
+        "name": "Double Beef Burger with Chips",
+        "price": "R80",
+        "image":"images/burger.png"
+    },
+    {
+        "id": 3,
+        "name": "pizza",
+        "price": "R110",
+        "image":"images/burger.png"
+    },
+    {
+        "id": 4,
+        "name": "Dagwood",
+        "price": "R80",
+        "image":"images/burger.png"
+    }
+]
